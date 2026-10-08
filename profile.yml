@@ -1,0 +1,6 @@
+# ============================================
+# PROFILE.YML — Fuente única de verdad (sin datos de contacto)
+# Este archivo SÍ se manda a la API de Gemini para matching y sugerencias.
+# No incluye nombre, correo, teléfono ni links personales — esos viven
+# solo en tu CV real, que tú editas a mano con las sugerencias del pipeline.
+# ============================================

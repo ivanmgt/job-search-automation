@@ -1,0 +1,16 @@
+.env
+n8n_data/
+vacantes.db
+log_pipeline.txt
+__pycache__/
+filtro_ia/__pycache__/
+filtro_ia/diagnostico_grounding.py
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+gob/__pycache__/
+gob/test/
+gob/log_gobmx.txt
+link_occ/__pycache__/
+link_occ/test/
+*.pyc
